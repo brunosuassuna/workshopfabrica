@@ -2,7 +2,7 @@
 
 # Projeto - API de Gerenciamento de Usuários
 
-Este é um projeto de exemplo que demonstra uma API de gerenciamento de usuários construída com o framework Django e o Django REST framework. A API permite realizar operações CRUD (Criar, Ler, Atualizar e Excluir) em registros de usuários, como apelido (nickname), nome, e-mail e idade.
+Este é um projeto que demonstra uma API de gerenciamento de usuários construída com o framework Django e o Django REST framework. A API permite realizar operações CRUD (Criar, Ler, Atualizar e Excluir) em registros de usuários, como apelido (nickname), nome, e-mail e idade.
 
 ## Funcionalidades Principais
 
